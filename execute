@@ -1,0 +1,2 @@
+echo "Lm Only" > Lm_Only.txt
+exit 1
